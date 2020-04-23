@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("testCommit");
-            Console.WriteLine("testCommit");
+            Console.WriteLine("testBranch");
         }
     }
 }
